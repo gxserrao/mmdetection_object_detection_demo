@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>JPEGImages</folder>
 	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<path>C:\Users\Gabriel\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>angus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
+			<xmin>322</xmin>
+			<ymin>99</ymin>
+			<xmax>654</xmax>
+			<ymax>445</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>angus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>490</xmin>
-			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmin>142</xmin>
+			<ymin>201</ymin>
+			<xmax>290</xmax>
+			<ymax>425</ymax>
 		</bndbox>
 	</object>
 </annotation>
